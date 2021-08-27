@@ -1,4 +1,5 @@
 <?php
+
 function getIPAddress()
 {
   //whether ip is from the share internet  
